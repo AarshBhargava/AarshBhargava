@@ -2,9 +2,10 @@
 <h1 align = "center" style ="color: blue">Hi 👋,I am Aarsh Bhargava</h1>
 <br>
 <br>
-<img align = "centre" width =  500 src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="gif coding"></img>
+<p align="center"><img width=500
+src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="gif coding"></img></p>
 
-<p align ="centre"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Software+Engineer;Front-end+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a></p>
+<p align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Software+Engineer;Front-end+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarshbhargava&label=Profile%20views&color=0e75b6&style=flat" alt="aarshbhargava" /> </p>
 
